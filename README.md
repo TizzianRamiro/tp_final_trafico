@@ -19,5 +19,5 @@ Este proyecto no solo valida modelos teóricos en un entorno controlado, sino qu
 ## Documentación
 Para más detalles sobre la implementación y los resultados obtenidos, consulta la documentación completa en el siguiente enlace:
 
-[Documentación del Proyecto](https://proyectosunrc.github.io/tp_final_trafico/)
+[Documentación del Proyecto](https://tizzianramiro.github.io/tp_final_trafico/)
 
