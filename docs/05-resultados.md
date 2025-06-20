@@ -9,8 +9,6 @@ Para realizar las pruebas de carga se tuvieron en cuenta las siguientes consider
 las pruebas.
 4. El tiempo de respuesta por solicitud T=1/(𝜇-𝜆), el cual se va a utilizar para comprar los valores teoricos y los obtenidos en la practica, para mas de un pod se calcula como T=1/(𝜇*k-𝜆).
 
-
-
 ### Tabla I: Resultados de las mediciones
 
 ## Tiempo medio en el sistema
